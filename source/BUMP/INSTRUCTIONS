@@ -1,0 +1,9 @@
+All three runs use p=1 bar (10^5 Pa) and T=300K 
+
+Case 1.  Supersonic (M=1.5), use 4% bump grid (bump04perc.grd)
+Case 2.  Transonic (M=0.7), use 10% bump grid (bump10perc.grd)
+Case 3.  Subsonic (M=0.3), use 10% bump grid ( "" )
+
+***RECOMMENDATION:  Use global time step of 1.0E-5 seconds and run for few 1000 cycles
+
+
