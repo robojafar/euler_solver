@@ -1,5 +1,5 @@
 # Finite Volume Euler Solver
-Read the [technical brief](https://github.com/robojafar/euler_solver/blob/master/euler_solver.pdf)
+Read the [technical brief](https://github.com/robojafar/euler_solver/blob/master/euler_solver.pdf) for a full explantion of the mechanics behind this code.
 
 ## Overview
 - Cell centered
@@ -96,3 +96,5 @@ for i = 1:nci
   end
 end
 ```
+
+Please read the [technical brief](https://github.com/robojafar/euler_solver/blob/master/euler_solver.pdf) for further explanation of the code. GitHub markdown can only do so much.
